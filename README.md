@@ -1,57 +1,19 @@
-# Ant Design Pro
+------
 
-This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
+### 后端技术选型
 
-## Environment Prepare
+- Java 编程语言
+- MySQL数据库
+- Spring + Spring MVC + SpringBoot 框架
+- MyBatis-Plus 及 MyBatis Plus 数据访问框架
+- jUnit单元测试库
 
-Install `node_modules`:
 
-```bash
-npm install
-```
 
-or
+### 前端技术选型
 
-```bash
-yarn
-```
-
-## Provided Scripts
-
-Ant Design Pro provides some useful script to help you quick start and build with web project, code style check and test.
-
-Scripts provided in `package.json`. It's safe to modify or add additional script:
-
-### Start project
-
-```bash
-npm start
-```
-
-### Build project
-
-```bash
-npm run build
-```
-
-### Check code style
-
-```bash
-npm run lint
-```
-
-You can also use script to auto fix some lint error:
-
-```bash
-npm run lint:fix
-```
-
-### Test code
-
-```bash
-npm test
-```
-
-## More
-
-You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
+- HTML + CSS + JavaScript 三件套
+- Reat 开发框架
+- Ant Design Pro 项目模板
+- Ant Design & Procomponents组件库
+- Umi 前端开发框架
